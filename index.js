@@ -4,10 +4,10 @@ const prepend = ["Milo", "Otis", "Garfield"]
 const removeLast = ["Milo", "Otis", "Garfield"]
 const removeFirst = ["Milo", "Otis", "Garfield"]
 
-pets.push("Odie");
+append.push("Odie");
 
-pets.unshift("Some Pet");
+prepend.unshift("Some Pet");
 
-pets.pop();
+removeLast.pop();
 
-pets.shift();
+removeFirst.shift();
