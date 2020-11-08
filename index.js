@@ -6,4 +6,4 @@ pets.unshift("Some Pet");
 
 pets.pop();
 
-pets.
+pets.shift();
